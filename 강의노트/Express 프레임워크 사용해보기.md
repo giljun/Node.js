@@ -85,7 +85,7 @@ express_tutorial/
 
 
 
-## 정적 파일 (Static files) 다루기
+## 5. 정적 파일 (Static files) 다루기
 
 - 정적 파일이란? HTML에서 사용되는 .js 파일, css 파일, image 파일 등을 가르킵니다.
 
